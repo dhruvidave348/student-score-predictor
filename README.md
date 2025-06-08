@@ -19,11 +19,12 @@ This is a simple machine learning model that predicts student scores based on th
 - `matplotlib`
 - `scikit-learn`
 
-### ⚙️ Installation
+### 📷 Output:
+![Graph](screenshot.png)
 
-Make sure you have Python installed (preferably version 3.6 or above).
-
-Install dependencies with:
-
+### 🔮 Example Prediction:
 ```bash
-pip install -r requirements.txt
+Actual  Predicted
+4       35.81
+9       28.21
+27      33.00
